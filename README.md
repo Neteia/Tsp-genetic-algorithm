@@ -1,6 +1,5 @@
 # TspGeneticAlgorithm
 
-Travelling salesman problem using genetic alghoritm to find optimum route.
 This program has been created to find routes from The TSPLIB Symmetric Traveling Salesman Problem Instances
 which are available on the site [TSPLIB](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/index.html).  
 My program works well enough to find results, that are very similar to optimum routes for tested six instances. Best known sollutions for
